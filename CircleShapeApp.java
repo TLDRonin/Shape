@@ -1,4 +1,4 @@
-// Asami, Brian - CS-170-01 - Lab 3
+
 //
 package Pt2;
 
